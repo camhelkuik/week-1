@@ -1,0 +1,6 @@
+C:\Users\CamCam\Desktop\Metro Classes\C# II\week 1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\CamCam\Desktop\Metro Classes\C# II\week 1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\CamCam\Desktop\Metro Classes\C# II\week 1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\CamCam\Desktop\Metro Classes\C# II\week 1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\CamCam\Desktop\Metro Classes\C# II\week 1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\CamCam\Desktop\Metro Classes\C# II\week 1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
